@@ -3,3 +3,5 @@
 Welcome.
 
 !! This line is changed in the feature branch
+
+!! Second line in master branch
